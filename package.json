@@ -13,5 +13,9 @@
     "parallel"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "js2xmlparser": "^4.0.2",
+    "node-fetch": "^3.2.6"
+  }
 }
